@@ -1,0 +1,28 @@
+name: StaffPowered
+main: me.anvilpowered.sp.Main
+version: 1.0
+author: AnvilPowered
+depend: [AnvilPoweredAPI]
+commands:
+    isp:
+        usage: /<command>
+        aliases: [infosp]
+        description: 
+    cp:
+        usage: /<command>
+        aliases: []
+        description: 
+    globalcp:
+        usage: /<command>
+        aliases: [gcp]
+        description: 
+    mute:
+        usage: /<command>
+        aliases: []
+        description: 
+    unmute:
+        usage: /<command>
+        aliases: []
+        description: 
+
+
